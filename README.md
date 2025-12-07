@@ -48,7 +48,7 @@ I would recommend making the new product compatible with Neptune so its open-sou
 
 ## Possible Approaches
 
-I assess that our expertise in backend development is stronger than in UI, so one possible approach is to create a simple mock that mimics Neptune's backend API and start developing the UI first. Different features can then be disabled via feature flags during real backend development. This way, we start with the riskiest part for us — the UI—and then gradually develop the backend, enabling feature flags as relevant backend components are completed.
+I assess that our expertise in backend development is stronger than in UI, so one possible approach is to create a simple mock that mimics Neptune's backend API and start developing the UI first. Different features can then be disabled via feature flags during real backend development. This way, we start with the riskiest part for us — the UI — and then gradually develop the backend, enabling feature flags as relevant backend components are completed.
 
 # Positioning
 
