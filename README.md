@@ -4,7 +4,7 @@
 
 A product for analyzing the training stage of LLM models. Features fast ingestion of metrics, their storage, and BI-style dashboards.
 
-Currently planned to discontinue on March 5 2026 (https://docs.neptune.ai/transition_hub/).
+Currently was scheduled to be discontinued on March 5, 2026 (https://docs.neptune.ai/transition_hub/).
 
 ## Key Components
 
@@ -57,7 +57,7 @@ I assess that our expertise in backend development is stronger than in UI, so on
 
 Future development may vary, but I would recommend initial positioning as an open-source alternative to Neptune that is compatible with it.
 
-Update: Neptune planned to descontinue on March 5 2026 so it may be positioned as a smooth replaicement.
+Update: Neptune was scheduled to be discontinued on March 5, 2026 so it may be positioned as a smooth replaicement.
 
 ## Links
 
