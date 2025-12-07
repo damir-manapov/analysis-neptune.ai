@@ -4,7 +4,7 @@
 
 A product for analyzing the training stage of LLM models. Features fast ingestion of metrics, their storage, and BI-style dashboards.
 
-Currently was scheduled to be discontinued on March 5, 2026 (https://docs.neptune.ai/transition_hub/).
+Currently was scheduled to be discontinued on March 5, 2026 (https://docs.neptune.ai/transition_hub/). The inial analysis was conducted before the discontinuation plans were known.
 
 ## Key Components
 
