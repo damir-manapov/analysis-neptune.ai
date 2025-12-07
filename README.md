@@ -4,6 +4,8 @@
 
 A product for analyzing the training stage of LLM models. Features fast ingestion of metrics, their storage, and BI-style dashboards.
 
+Currently planned to discontinue on March 5 2026 (https://docs.neptune.ai/transition_hub/).
+
 ## Key Components
 
 * Ingestion through Kafka
@@ -41,6 +43,7 @@ All stack components are valid except for MySQL. There's no compelling reason to
 * Authentication/roles
 * Drill-down functionality
 * Fullscreen expansion
+* Keyboard shortcuts
 
 ## Recommendations
 
@@ -53,3 +56,11 @@ I assess that our expertise in backend development is stronger than in UI, so on
 # Positioning
 
 Future development may vary, but I would recommend initial positioning as an open-source alternative to Neptune that is compatible with it.
+
+Update: Neptune planned to descontinue on March 5 2026 so it may be positioned as a smooth replaicement.
+
+## Links
+
+* https://scale.neptune.ai/o/examples/org/LLM-Pretraining
+* https://docs.neptune.ai/
+
